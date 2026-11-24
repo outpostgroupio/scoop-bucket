@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0-rc.7",
+    "version": "0.1.0-rc.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/outpostgroupio/baseplate/releases/download/v0.1.0-rc.7/baseplate_0.1.0-rc.7_windows_amd64.zip",
+            "url": "https://github.com/outpostgroupio/baseplate/releases/download/v0.1.0-rc.8/baseplate_0.1.0-rc.8_windows_amd64.zip",
             "bin": [
                 "baseplate.exe"
             ],
-            "hash": "840fcc49b7ea73d495d3879d1bdea71f8027df8fa3db115381b405449cd55d15"
+            "hash": "a761402a6352d472ac9e6dbb04647dcc64adf7a0a50251c370242394eb055254"
         },
         "arm64": {
-            "url": "https://github.com/outpostgroupio/baseplate/releases/download/v0.1.0-rc.7/baseplate_0.1.0-rc.7_windows_arm64.zip",
+            "url": "https://github.com/outpostgroupio/baseplate/releases/download/v0.1.0-rc.8/baseplate_0.1.0-rc.8_windows_arm64.zip",
             "bin": [
                 "baseplate.exe"
             ],
-            "hash": "302ccc7897af5d619cc585b5816a4689d8e32c30adbeaaafdb352b5e528f52b8"
+            "hash": "9a533b38bf90826c0ca439c97045ca5bd6f3540090ff3c5a22a91c1132d8f0e1"
         }
     },
     "homepage": "https://github.com/outpostgroupio/baseplate",
